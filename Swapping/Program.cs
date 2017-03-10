@@ -25,6 +25,8 @@ Time limit: 0.2s
 Memory limit: 48 MB
 */
 
+//slow solution
+
 using System;
 using System.Linq;
 
