@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23846B6B-83FE-4B92-8BCD-089C8B0D49AB}</ProjectGuid>
+    <ProjectGuid>{9BA599AC-1155-480B-901E-8DE749B08039}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GoldFever</RootNamespace>
-    <AssemblyName>GoldFever</AssemblyName>
+    <RootNamespace>Swapping</RootNamespace>
+    <AssemblyName>Swapping</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

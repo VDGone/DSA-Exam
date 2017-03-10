@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldFever", "GoldFever\GoldFever.csproj", "{6B7D6EDF-09E4-47E8-8353-4E164EA2BBEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRingsOfTheAcademy", "TheRingsOfTheAcademy\TheRingsOfTheAcademy.csproj", "{6B7D6EDF-09E4-47E8-8353-4E164EA2BBEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping", "Swapping\Swapping.csproj", "{9BA599AC-1155-480B-901E-8DE749B08039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldFever", "GoldFever\GoldFever.csproj", "{23846B6B-83FE-4B92-8BCD-089C8B0D49AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6B7D6EDF-09E4-47E8-8353-4E164EA2BBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B7D6EDF-09E4-47E8-8353-4E164EA2BBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B7D6EDF-09E4-47E8-8353-4E164EA2BBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA599AC-1155-480B-901E-8DE749B08039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA599AC-1155-480B-901E-8DE749B08039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA599AC-1155-480B-901E-8DE749B08039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA599AC-1155-480B-901E-8DE749B08039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23846B6B-83FE-4B92-8BCD-089C8B0D49AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23846B6B-83FE-4B92-8BCD-089C8B0D49AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23846B6B-83FE-4B92-8BCD-089C8B0D49AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23846B6B-83FE-4B92-8BCD-089C8B0D49AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
